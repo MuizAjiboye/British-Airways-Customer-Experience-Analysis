@@ -180,28 +180,6 @@ Continue investing in staff training and use service excellence as a competitive
 
 ---
 
-## Dashboard Preview
-
-![British Airways Dashboard](imagesct Structure
-
-```text
-British-Airways-Reviews-Analysis
-│
-├── data
-│   ├── ba_reviews.csv
-│   └── Countries.csv
-│
-├── dashboards
-│   └── BritishAirwaysDashboard.twbx
-│
-├── images
-│   └── dashboard.png
-│
-└── README.md
-```
-
----
-
 ## Business Impact
 
 This project demonstrates how customer review data can be transformed into actionable insights to support:
